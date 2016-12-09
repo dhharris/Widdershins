@@ -1,0 +1,12 @@
+.svn/
+.buildpath
+.check.txt
+.settings/
+.project
+.pydevproject
+*.psd
+*.pdf
+*.pages
+*.numbers
+*.o
+*.sh
